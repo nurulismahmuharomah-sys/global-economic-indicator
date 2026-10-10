@@ -1,4 +1,4 @@
-## Global Economic Intelligence: Data Collection and Integration
+## Global Economic Indicators: Data Collection and Integration
 
 ## Project Overview
 
